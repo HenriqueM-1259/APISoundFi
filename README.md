@@ -1,5 +1,5 @@
 ---
-title: ExpressJS Mongoose
+title: SoundFi Api
 description: An ExpressJS server that connects to a MongoDB database
 tags:
   - express
